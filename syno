@@ -9,3 +9,14 @@ For elderly people or patients with chronic conditions, forgetting to take medic
 to serious health risks. This project aims to solve that problem by creating a simple, 
 automated reminder system that alerts users when it’s time to take their medicine. It also 
 keeps caregivers informed by sending notifications if a dose is missed.
+Objective: 
+Provide timely reminders for medication. 
+Confirm whether the user has taken the medicine. 
+Notify caregivers if a dose is missed. 
+Display the next scheduled dose on an OLED screen. 
+Methodology: 
+The system will be controlled by an ESP32 microcontroller. At scheduled times, a buzzer will 
+sound, and an LED will blink to remind the user to take their medicine. The user confirms 
+they’ve taken the medicine by pressing a push-button. If no confirmation is received within a 
+set time, the system will send an alert to the caregiver and activate a louder buzzer. The 
+OLED display will show the next medication time. 
