@@ -1,0 +1,11 @@
+Abstract: 
+This project is designed to help individuals, especially elderly patients, remember to take 
+their medication on time. By using an IoT system with real-time alerts, it ensures that users 
+receive timely reminders and confirmations. The system also sends notifications to 
+caregivers if a dose is missed, promoting better medication adherence and overall health 
+management. 
+Introduction: 
+For elderly people or patients with chronic conditions, forgetting to take medications can lead 
+to serious health risks. This project aims to solve that problem by creating a simple, 
+automated reminder system that alerts users when it’s time to take their medicine. It also 
+keeps caregivers informed by sending notifications if a dose is missed.
