@@ -20,3 +20,14 @@ sound, and an LED will blink to remind the user to take their medicine. The user
 they’ve taken the medicine by pressing a push-button. If no confirmation is received within a 
 set time, the system will send an alert to the caregiver and activate a louder buzzer. The 
 OLED display will show the next medication time. 
+Components Used: 
+ESP32 Microcontroller 
+LEDs 
+Buzzer 
+Push-Button 
+OLED Display 
+Conclusion: 
+The IoT-Based Smart Medicine Reminder & Monitoring System provides an easy way for 
+patients to remember their medication schedule, helping them stay on track. It also improves 
+caregiving by notifying caregivers if a dose is missed. This project aims to enhance 
+medication adherence, ultimately supporting better health management.
