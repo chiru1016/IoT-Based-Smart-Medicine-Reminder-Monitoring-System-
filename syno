@@ -10,6 +10,7 @@ For elderly people or patients with chronic conditions, forgetting to take medic
 to serious health risks. This project aims to solve that problem by creating a simple, 
 automated reminder system that alerts users when it’s time to take their medicine. It also 
 keeps caregivers informed by sending notifications if a dose is missed.
+
 Objective: 
 Provide timely reminders for medication. 
 Confirm whether the user has taken the medicine. 
