@@ -25,6 +25,7 @@ set time, the system will send an alert to the caregiver and activate a louder b
 OLED display will show the next medication time.
 
 Components Used: 
+
 ESP32 Microcontroller 
 LEDs 
 Buzzer 
