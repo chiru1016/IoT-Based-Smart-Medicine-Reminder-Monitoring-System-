@@ -22,7 +22,8 @@ The system will be controlled by an ESP32 microcontroller. At scheduled times, a
 sound, and an LED will blink to remind the user to take their medicine. The user confirms 
 they’ve taken the medicine by pressing a push-button. If no confirmation is received within a 
 set time, the system will send an alert to the caregiver and activate a louder buzzer. The 
-OLED display will show the next medication time. 
+OLED display will show the next medication time.
+
 Components Used: 
 ESP32 Microcontroller 
 LEDs 
