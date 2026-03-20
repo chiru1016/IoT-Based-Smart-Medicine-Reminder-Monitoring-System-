@@ -14,6 +14,7 @@ automated reminder system that alerts users when it’s time to take their medic
 keeps caregivers informed by sending notifications if a dose is missed.
 
 Objective: 
+
 Provide timely reminders for medication. 
 Confirm whether the user has taken the medicine. 
 Notify caregivers if a dose is missed. 
