@@ -24,6 +24,8 @@ Confirm whether the user has taken the medicine.
 Notify caregivers if a dose is missed. 
 Display the next scheduled dose on an OLED screen. 
 
+
+
 Methodology: 
 
 The system will be controlled by an ESP32 microcontroller. At scheduled times, a buzzer will 
